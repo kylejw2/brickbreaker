@@ -2,7 +2,7 @@
   "name": "brickbreaker",
   "version": "0.1.0",
   "description": "Brickbreaker built using HTML canvas tag and JavaScript to manipulate the DOM",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
